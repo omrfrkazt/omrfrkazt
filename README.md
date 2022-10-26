@@ -27,7 +27,7 @@ to my personal GitHub profile!
 
 <div align="center">
 <p>“When you see a good move, look for a better one.”</p>
-<a href="https://www.speedtest.net"><img src="https://i.ebayimg.com/images/g/OZYAAOSwsm1Z3VfZ/s-l1600.jpg" alt="Guest book" align="center"></a>
+<a href="https://owasp.org/www-project-top-ten"><img src="https://i.ebayimg.com/images/g/OZYAAOSwsm1Z3VfZ/s-l1600.jpg" alt="Guest book" align="center"></a>
 </div>
 
 <hr>
