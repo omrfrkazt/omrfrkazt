@@ -1,9 +1,15 @@
+<a id="top"></a>
+
 <div align="center">
-  <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan">
+  <a href="#top" style="cursor: default; text-decoration: none;">
+    <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan">
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome">
+  <a href="#top" style="cursor: default; text-decoration: none;">
+    <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome">
+  </a>
 </div>
 
 <div align="center">
@@ -24,42 +30,46 @@
 
 <div align="center">
   <p>I bought a new splitter, dont worry..</p>
-  <img
-    src="https://media1.giphy.com/media/QWkuGmMgphvmE/giphy.gif?cid=ecf05e47yt6s7ke0ij8g5nnzxt0d4hode024hx0qf1r2q3x5&rid=giphy.gif&ct=g"
-    alt="Speedtest"
-    style="pointer-events: none;"
-  >
+  <a href="#top" style="cursor: default; text-decoration: none;">
+    <img
+      src="https://media1.giphy.com/media/QWkuGmMgphvmE/giphy.gif?cid=ecf05e47yt6s7ke0ij8g5nnzxt0d4hode024hx0qf1r2q3x5&rid=giphy.gif&ct=g"
+      alt="Speedtest"
+    >
+  </a>
 </div>
 
 <hr>
 
 <div align="center">
   <p>“When you see a good move, look for a better one.”</p>
-  <img
-    src="https://i.ebayimg.com/images/g/OZYAAOSwsm1Z3VfZ/s-l1600.jpg"
-    alt="OWASP Top Ten"
-    style="pointer-events: none;"
-  >
+  <a href="#top" style="cursor: default; text-decoration: none;">
+    <img
+      src="https://i.ebayimg.com/images/g/OZYAAOSwsm1Z3VfZ/s-l1600.jpg"
+      alt="OWASP Top Ten"
+    >
+  </a>
 </div>
 
 <hr>
 
 <div align="center">
   <p>Have a good day!</p>
-  <img
-    src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif"
-    alt="Smiley"
-    style="pointer-events: none;"
-  >
+  <a href="#top" style="cursor: default; text-decoration: none;">
+    <img
+      src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif"
+      alt="Smiley"
+    >
+  </a>
 </div>
 
 <hr>
 
 <div align="center">
-  <img
-    src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg"
-    alt="Best viewed with Microsoft Internet Explorer"
-    width="128"
-    style="pointer-events: none;"
-  >
+  <a href="#top" style="cursor: default; text-decoration: none;">
+    <img
+      src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg"
+      alt="Best viewed with Microsoft Internet Explorer"
+      width="128"
+    >
+  </a>
 </div>
