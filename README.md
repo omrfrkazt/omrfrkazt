@@ -20,10 +20,6 @@
   <a href="https://linkedin.com/in/omrfrkazt" target="_blank" rel="noopener noreferrer">
     My LinkedIn
   </a>
-  ·
-  <a href="https://github.com/omrfrkazt" target="_blank" rel="noopener noreferrer">
-    GitHub
-  </a>
 </h3>
 
 <hr>
