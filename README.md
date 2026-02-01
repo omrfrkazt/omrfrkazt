@@ -47,10 +47,6 @@
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
-</div>
-
-<div align="center">
   <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg"
        alt="Best viewed with Microsoft Internet Explorer"
        align="center" width="128">
